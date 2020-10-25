@@ -26,5 +26,8 @@ Java课程作业项目仓库
    main方法中创建一个Course对象C1，调用构造方法为其自身属性（ID、Name、Location、Time、Teacher【授课教师】、Student【选课学生】）赋值；
    然后分别调用S1与T1下的Setcourse(Course ce)方法，将参数ce改为C1，实现学生选课，老师授课；
    接着调用相关类下重写的toString()方法,输出各类属性赋值信息；
-## 四. 核心代码
+## 四.核心代码
+![]()
+## 五.实验结果
+![](https://github.com/001221lry/Java-2/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20201025204620.png)
 
